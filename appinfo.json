@@ -1,10 +1,10 @@
 {
-  "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e5b",
-  "shortName": "Pebble.js",
-  "longName": "Pebble.js",
-  "companyName": "Meiguro",
+  "uuid": "b268416d-cdf3-4af9-bd11-fcb26d5584b2",
+  "shortName": "Tinker",
+  "longName": "Spark Tinker app for Pebble",
+  "companyName": "Spark IO",
   "versionCode": 1,
-  "versionLabel": "0.4",
+  "versionLabel": "0.1",
   "capabilities": [ "configurable" ],
   "watchapp": {
     "watchface": false
@@ -25,6 +25,14 @@
         "type": "png",
         "name": "IMAGE_TILE_SPLASH",
         "file": "images/tile_splash.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_ON",
+        "file": "images/on.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_OFF",
+        "file": "images/off.png"
       }, {
         "type": "font",
         "name": "MONO_FONT_14",

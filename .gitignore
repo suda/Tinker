@@ -2,3 +2,5 @@
 /.lock-*
 /build/
 /out/
+/node_modules/
+/src/js/app.js
